@@ -1,0 +1,1 @@
+export default function Loading(){return <div className="container-fit grid min-h-[60vh] place-items-center"><div className="flex items-center gap-3 text-sm text-white/60"><span className="size-6 animate-spin rounded-full border-2 border-white/20 border-t-[var(--lime)]"/> Loading workouts…</div></div>}

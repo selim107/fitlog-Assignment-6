@@ -47,8 +47,9 @@ npm run dev
 
 http://localhost:3000
 
-## 🌐 Live Demo
+## 🔗 Relevant Links
 
-[Live Website](https://exquisite-chaja-de592d.netlify.app)
+- Live Website : (https://exquisite-chaja-de592d.netlify.app)
+- GitHub Repository : https://github.com/selim107/fitlog-Assignment-6
+- GitHub Profile : https://github.com/selim107
 
-## Github Repository link : https://github.com/selim107/fitlog-Assignment-6
